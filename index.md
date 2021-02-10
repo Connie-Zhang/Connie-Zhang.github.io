@@ -4,7 +4,7 @@ feature_text:
   ## Connie Zhang
   Applied Mathematics and Statistics, Macalester College
 feature_image: "https://picsum.photos/1300/400?image=989"
-excerpt: "I am an undergraduate statistics student at Macalester College, advised by [Dr. Brianna Heggeseth](https://sites.google.com/macalester.edu/bcheggeseth). I am interested in pursuing a Biostatistics PhD. "
+excerpt: ""
 ---
 
 I am an undergraduate statistics student at Macalester College, advised by [Dr. Brianna Heggeseth](https://sites.google.com/macalester.edu/bcheggeseth). I am interested in pursuing a Biostatistics PhD.
