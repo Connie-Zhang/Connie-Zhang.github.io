@@ -1,7 +1,7 @@
 ---
 title: About Me
-feature_text:
-  Connie Zhang
+feature_text: |
+  ## Connie Zhang
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: ""
 ---
