@@ -4,10 +4,10 @@ feature_text:
   ## Connie Zhang
   Applied Mathematics and Statistics, Macalester College
 feature_image: "https://picsum.photos/1300/400?image=989"
-excerpt: "I am an undergraduate statistics student at Macalester College, advised by {% link = 'https://sites.google.com/macalester.edu/bcheggeseth'%} Dr. Brianna Heggeseth. I am interested in pursuing a Biostatistics PhD. // I researched "
+excerpt: "I am an undergraduate statistics student at Macalester College, advised by {% link = 'https://sites.google.com/macalester.edu/bcheggeseth'%} Dr. Brianna Heggeseth. I am interested in pursuing a Biostatistics PhD. "
 ---
 
-Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
+I am an undergraduate statistics student at Macalester College, advised by {% link = 'https://sites.google.com/macalester.edu/bcheggeseth'%} Dr. Brianna Heggeseth. I am interested in pursuing a Biostatistics PhD.
 
 {% include button.html text="Github" icon="github" link="https://github.com/Connie-Zhang" color="#0366d6" %}  {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %}
 
