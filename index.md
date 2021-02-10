@@ -2,6 +2,7 @@
 title: About Me
 feature_text: |
   ## Connie Zhang
+  Applied Mathematics and Statistics, Macalester College
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: ""
 ---
