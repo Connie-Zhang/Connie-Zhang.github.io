@@ -1,8 +1,7 @@
 ---
 title: About Me
 feature_text:
-  ## Connie Zhang
-  Applied Mathematics and Statistics, Macalester College
+  ## Connie Zhang Applied Mathematics and Statistics, Macalester College
 feature_image: "url('images/forest.jpeg')"
 ---
 
