@@ -9,7 +9,7 @@ aside: true
 
 ### MIA Internship
 * [seasonality](https://cornerz.shinyapps.io/MIA_Seasonality/)
-* [wordcloud] (https://cornerz.shinyapps.io/Wordclouds)
+* [wordcloud] (https://cornerz.shinyapps.io/Wordclouds/)
 
 ### Independent Project
 * thing 1
@@ -20,6 +20,3 @@ aside: true
 
 {% include site-form.html %}
 
-``` html
-{% raw %}{% include site-form.html %}{% endraw %}
-```
