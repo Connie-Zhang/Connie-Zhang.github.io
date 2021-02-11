@@ -1,6 +1,8 @@
 ---
-title: Search
-excerpt: "Search for a page or post you're looking for"
+title: Teaching
+excerpt: ""
 ---
-
+### Precepted for
+#### STAT/MATH 354 Probability
+#### STAT 155 Intro to Statistical Modeling
 {% include site-search.html %}
