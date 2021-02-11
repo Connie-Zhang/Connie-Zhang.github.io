@@ -15,10 +15,3 @@ aside: true
 * thing 1
 * thing 2
 
-
-### Contact form
-{% include site-form.html %}
-
-``` html
-{% raw %}{% include site-form.html %}{% endraw %}
-```
