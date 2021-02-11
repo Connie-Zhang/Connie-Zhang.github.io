@@ -1,7 +1,13 @@
 ---
-title: Thanks!
+title: Activities
 indexing: false
 sitemap: false
 ---
 
-Thanks for getting in touch! We'll respond as soon as we can.
+### ISP
+* thing 1
+* thing 2
+
+### EMT/MFA
+* thing 1
+* thing 2
