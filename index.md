@@ -9,7 +9,7 @@ excerpt: ""
 
 I am an undergraduate statistics student at Macalester College, advised by [Dr. Brianna Heggeseth](https://sites.google.com/macalester.edu/bcheggeseth). I am interested in pursuing a Biostatistics PhD. I have done research on the Minneapolis Insitute of Art's data, cleaning large messy data. I also worked there as a summer intern. I developed a R Shiny app that reflects the museum's visitor seasonality and applied natural language processing algorithms to identify themes of their artworks.
 
-{% include button.html text="Github" icon="github" link="https://github.com/Connie-Zhang" color="#0366d6" %}  {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %}
+{% include button.html text="Github" icon="github" link="https://github.com/Connie-Zhang" color="#0366d6" %}  {% include button.html text="Tweet it" icon="gmail" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %}
 
 ## Features
 
