@@ -3,6 +3,5 @@ title: Teaching
 excerpt: ""
 ---
 ### Precepted for
-#### STAT/MATH 354 Probability
-#### STAT 155 Intro to Statistical Modeling
-{% include site-search.html %}
+##### STAT/MATH 354 Probability
+##### STAT 155 Intro to Statistical Modeling
