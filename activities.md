@@ -1,5 +1,5 @@
 ---
-title: Categories
+title: Activitiess
 layout: categories
 excerpt: "Category index"
 aside: true
